@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **mrdhiraj009maurya@gamil.com** For Collaboration/Project o
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
-**<h3 align="left">GitHub Stats</h3>**
+**<h3 align="left"></h3>**
 
 <p align="left">
   <img width="48%" src="https://streak-stats.vercel.app?user=dhirajkushwaha01&theme=react" alt="GitHub Stats" />
