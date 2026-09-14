@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **mrdhiraj009maurya@gamil.com** For Collaboration/Project or Anything Else. 😊
 
 - 🔭 **I’m currently working on:** Web Development
-- 🌱 **I’m currently learning:** Backend web development
+- 🌱 **I’m currently learning:** Backend 
   
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhirajjkushwaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrdhiraj009maurya@gmail.com) <a href="https://www.linkedin.com/in/dhiraj-kumar-0dh01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white" height="28"></a>
