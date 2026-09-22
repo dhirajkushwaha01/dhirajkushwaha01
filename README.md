@@ -38,8 +38,12 @@ Hi, I'm Dhiraj Kushwaha — a developer from India who enjoy building clean, use
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajkushwaha01&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img width="50%" src="https://streak-stats.vercel.app?user=dhirajkushwaha01&theme=react" alt="GitHub Stats" />
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=dhirajkushwaha01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhirajkushwaha01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkushwaha01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
