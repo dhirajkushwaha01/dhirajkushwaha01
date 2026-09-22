@@ -1,34 +1,52 @@
-# Hi , I'm Dhiraj Kushwaha
-
-
-Email Me  ✉️ **mrdhiraj009maurya@gamil.com** For Collaboration/Project or Anything Else. 
-
-- 🔭 **I’m currently working on:** Web Development
-- 🌱 **I’m currently learning:** Backend 
-  
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhirajjkushwaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrdhiraj009maurya@gmail.com) <a href="https://www.linkedin.com/in/dhiraj-kumar-0dh01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white" height="28"></a>
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-**<h3 align="left"></h3>**
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        Hello, I'm Dhiraj 
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 <p align="left">
-  <img width="48%" src="https://streak-stats.vercel.app?user=dhirajkushwaha01&theme=react" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Front-End+Developer;Learning+Backend" alt="Typing SVG" />
 </p>
 
-**<h3 align="left">Contact</h3>**
+**Front-End Developer** · React · Next.js · TypeScript · JavaScript · Python
 
-<p align="left">
-  <a href="mailto:mrdhiraj009maurya@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-white?logo=gmail" alt="GitHub Streak" /></a>
-</p>
+Currently Learning Express & Databases
 
-![](https://github-readme-stats.vercel.app/api?username=dhirajkushwaha01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhirajkushwaha01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkushwaha01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Hi, I'm Dhiraj Kushwaha — a developer from India, currently focused on web development and building clean, user-centric interfaces. Levelling up into backend development, one concept at a time.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dhirajkushwaha01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📬 Contact
+
+<p align="left">
+<a href="https://github.com/dhirajkushwaha01" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" height="28" style="margin-right: 4px"></a>
+<a href="https://www.linkedin.com/in/dhiraj-kumar-0dh01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
+<a href="https://x.com/dhirajjkushwaha" target="_blank"><img src="https://img.shields.io/badge/X%2FTwitter-000000?logo=x&logoColor=white" height="28" style="margin-right: 4px"></a>
+<a href="mailto:mrdhiraj009maurya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a>
+</p>
+
+---
+
+### 🛠️ Tools & Tech
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,git,github,vscode" alt="Skills" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajkushwaha01&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dhirajkushwaha01&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+</p>
