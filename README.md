@@ -1,7 +1,7 @@
-# Hi 👋, I'm Dhiraj Kushwaha
+# Hi , I'm Dhiraj Kushwaha
 
 
-Email Me 👉 ✉️ **mrdhiraj009maurya@gamil.com** For Collaboration/Project or Anything Else. 😊
+Email Me  ✉️ **mrdhiraj009maurya@gamil.com** For Collaboration/Project or Anything Else. 
 
 - 🔭 **I’m currently working on:** Web Development
 - 🌱 **I’m currently learning:** Backend 
