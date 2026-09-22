@@ -8,15 +8,11 @@
   </ul>
 </div>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Front-End+Developer;Learning+Backend" alt="Typing SVG" />
-</p>
+### Frontend Developer
 
-**Front-End Developer** · React · Next.js · TypeScript · JavaScript · Python
+Currently Learning Backend Development
 
-Currently Learning Express & Databases
-
-Hi, I'm Dhiraj Kushwaha — a developer from India, currently focused on web development and building clean, user-centric interfaces. Levelling up into backend development, one concept at a time.
+Hi, I'm Dhiraj Kushwaha — a developer from India who enjoy building clean, user-centric web interfaces and is always exploring new tools and technologies to grow as a full-stack developer.
 
 ---
 
