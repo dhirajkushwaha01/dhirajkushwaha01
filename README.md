@@ -30,7 +30,7 @@ Hi, I'm Dhiraj Kushwaha — a Full Stack Developer from India who enjoys buildin
 ### 🛠️ Tools & Tech
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,git,github,vscode" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,nodejs,express,mongodb,postman,py,git,github,,vscode" alt="Skills" />
 </p>
 
 ---
