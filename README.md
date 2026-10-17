@@ -8,11 +8,11 @@
   </ul>
 </div>
 
-### Frontend Developer
+### Full Stack Developer
 
-Currently Learning Backend Development
+Passionate About Building Modern Web Applications
 
-Hi, I'm Dhiraj Kushwaha — a developer from India who enjoy building clean, user-centric web interfaces and is always exploring new tools and technologies to grow as a full-stack developer.
+Hi, I'm Dhiraj Kushwaha — a Full Stack Developer from India who enjoys building modern, responsive, and user-friendly web applications. I work on both frontend and backend development, continuously improving my skills and exploring new technologies to build efficient, scalable, and impactful digital experiences.
 
 ---
 
